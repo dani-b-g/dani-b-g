@@ -152,17 +152,21 @@ It includes tournament administration, team management, roles, notifications, ma
 
 ---
 
-## 📊 GitHub stats
+## 📊 GitHub activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dani-b-g&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dani-b-g&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub profile details" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dani-b-g&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img width="49%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositories per language" />
+  <img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most committed languages" />
 </p>
 
+<p align="center">
+  <img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+  <img width="49%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" />
+</p>
 ---
 
 ## 🧠 Engineering principles

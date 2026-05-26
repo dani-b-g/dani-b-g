@@ -155,18 +155,19 @@ It includes tournament administration, team management, roles, notifications, ma
 ## 📊 GitHub activity
 
 <p align="center">
-  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dani-b-g&theme=tokyonight" alt="GitHub profile details" />
 </p>
 
 <p align="center">
-  <img width="49%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositories per language" />
-  <img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most committed languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dani-b-g&theme=tokyonight" alt="Repositories per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dani-b-g&theme=tokyonight" alt="Most committed languages" />
 </p>
 
 <p align="center">
-  <img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
-  <img width="49%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dani-b-g&theme=tokyonight" alt="GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dani-b-g&theme=tokyonight&utcOffset=1" alt="Productive time" />
 </p>
+
 ---
 
 ## 🧠 Engineering principles

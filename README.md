@@ -6,6 +6,9 @@
   <a href="https://github.com/dani-b-g"><img src="https://img.shields.io/badge/GitHub-dani--b--g-0B0F19?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/daniel-b-g/"><img src="https://img.shields.io/badge/LinkedIn-Daniel%20B.%20Grados-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://tournamentzzz.win"><img src="https://img.shields.io/badge/Side%20Project-TournamentZZZ-00E5FF?style=for-the-badge&logo=trophy&logoColor=0B0F19" alt="TournamentZZZ" /></a>
+  <a href="https://ko-fi.com/danibg">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
+  </a>
 </p>
 
 <h3 align="center">Frontend leadership, Angular architecture and product-minded engineering.</h3>

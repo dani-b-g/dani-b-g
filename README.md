@@ -71,6 +71,26 @@ It's published on Google Play. Yes, it's built with Angular.
   <img src="./assets/nearplay-showcase.png" alt="NearPlay: home screen, a Connect Four game against NearBot, and the game catalog" />
 </a>
 
+### 🤖 [ITXample Shop](https://github.com/dani-b-g/chatbot_angular_rag): a support bot that runs on your machine
+
+An open-source proof of concept: a customer-support chatbot for a made-up electronics store, with **no paid API and no keys**. Ask about shipping, returns or a product, and the NestJS API embeds your question, pulls the closest chunks from a set of Markdown docs (local RAG, cosine similarity) and **streams the answer** from a small local model over Server-Sent Events. Every reply lists the documents it was built from, so you can check it instead of trusting it.
+
+`docker compose up` is all it takes. That one command starts Ollama, downloads the models, builds the index and serves the Angular store on `localhost:8080`, with optional NVIDIA GPU support. The repo is upfront about what's missing before production: auth, rate limiting, a vector DB and answer evaluation.
+
+<p>
+  <img src="https://img.shields.io/badge/Angular%2021-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular 21" />
+  <img src="https://img.shields.io/badge/NestJS%2011-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS 11" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Qwen3%204B%20%2B%20EmbeddingGemma-8B5CF6?style=flat-square" alt="Qwen3 4B and EmbeddingGemma" />
+  <img src="https://img.shields.io/badge/RAG-00E5FF?style=flat-square&labelColor=0B0F19" alt="RAG" />
+  <img src="https://img.shields.io/badge/SSE%20streaming-0B0F19?style=flat-square" alt="SSE streaming" />
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose" />
+</p>
+
+<a href="https://github.com/dani-b-g/chatbot_angular_rag">
+  <img src="./assets/itxample-shop-showcase.png" alt="ITXample Shop: the storefront on desktop, and the help assistant on a phone answering a shipping question with the documents it consulted" />
+</a>
+
 ## 🤝 Open source I put time into
 
 | Project | What I do there |
@@ -85,7 +105,7 @@ It's published on Google Play. Yes, it's built with Angular.
 </p>
 
 <p align="center">
-  <sub>Plus the stuff without a logo: <b>Module Federation</b> · <b>Nx</b> · <b>Web Components / Lit</b> · <b>RxJS & Signals</b> · <b>OpenTelemetry</b> · <b>Playwright</b> · <b>WCAG</b> · <b>OpenShift</b> · <b>MCP</b> · <b>Claude Code</b></sub>
+  <sub>Plus the stuff without a logo: <b>Module Federation</b> · <b>Nx</b> · <b>Web Components / Lit</b> · <b>RxJS & Signals</b> · <b>OpenTelemetry</b> · <b>Playwright</b> · <b>WCAG</b> · <b>OpenShift</b> · <b>MCP</b> · <b>Ollama & local RAG</b> · <b>Claude Code</b></sub>
 </p>
 
 ## 💬 Opinions, loosely held

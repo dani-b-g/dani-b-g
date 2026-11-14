@@ -108,18 +108,6 @@ An open-source proof of concept: a customer-support chatbot for a made-up electr
   <sub>Plus the stuff without a logo: <b>Module Federation</b> · <b>Nx</b> · <b>Web Components / Lit</b> · <b>RxJS & Signals</b> · <b>OpenTelemetry</b> · <b>Playwright</b> · <b>WCAG</b> · <b>OpenShift</b> · <b>MCP</b> · <b>Ollama & local RAG</b> · <b>Claude Code</b></sub>
 </p>
 
-## 💬 Opinions, loosely held
-
-> **A platform is only as good as a new team's first day on it.** If it takes a week to say hello world, it isn't a platform yet.
->
-> **Accessibility is the definition of done,** not a phase you get to later.
->
-> **If you can't trace it, you're guessing.** Observability belongs in the frontend too.
->
-> **Upgrade often, so it stays boring.** Big-bang migrations are how you lose a quarter.
->
-> **AI is a teammate that needs good tooling,** so I build that tooling.
-
 ## 🎧 Currently on repeat
 
 <p align="center">
